@@ -1,1 +1,1 @@
-跳转至：[README.md](C:/Users/HP/Desktop/github/README.md)
+跳转至：[README.md](https://github.com/jackmen-258/Comp-Eng/blob/main/README.md)

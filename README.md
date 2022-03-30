@@ -2,9 +2,9 @@
 #### Hello Markdown!
 [Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
 
-跳转至:[FILE2.md](C:/Users/HP/Desktop/github/FILE2.md)
+跳转至:[FILE2.md](https://github.com/jackmen-258/Comp-Eng/blob/main/FILE2.md)
 
-image in the directory:![alt star sky](C:/Users/HP/Desktop/github/1.jpg)
+image in the directory:![alt star sky](https://raw.githubusercontent.com/jackmen-258/Comp-Eng/main/1.jpg)
 
 image in the web:![alt The Grand Budapest Hotel](https://pic2.zhimg.com/v2-d2a555c7e7328a0e0dd489f9a4713732_1200x500.jpg)
 
@@ -22,12 +22,12 @@ int main() {
 }
 ```
 
-> 你
-> 一会看我
-> 一会看云
-> 我觉得
-> 你看我时很远
-> 你看云时很近
+> 你  
+> 一会看我  
+> 一会看云  
+> 我觉得  
+> 你看我时很远  
+> 你看云时很近  
 
 + 数据结构
 + 计算机组成原理
@@ -44,8 +44,8 @@ int main() {
 |   江苏  |   116364.2   |
 |   山东  |   83095.9    |
 
-**bold text**
-*italicized text*
-~~strikethrough text~~
+**bold text**  
+*italicized text*  
+~~strikethrough text~~  
 
 ---
